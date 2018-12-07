@@ -1,8 +1,8 @@
-# <img src="https://user-images.githubusercontent.com/873584/33324159-c3ea5050-d489-11e7-9f4b-75ee806a7538.png"> [Pipe](https://github.com/b3log/pipe) [![Build Status](https://img.shields.io/travis/b3log/pipe.svg?style=flat)](https://travis-ci.org/b3log/pipe) [![Go Report Card](https://goreportcard.com/badge/github.com/b3log/pipe)](https://goreportcard.com/report/github.com/b3log/pipe) [![Coverage Status](https://coveralls.io/repos/github/b3log/pipe/badge.svg?branch=master)](https://coveralls.io/github/b3log/pipe?branch=master) [![GitHub license](https://img.shields.io/github/license/b3log/pipe.svg)](https://github.com/b3log/pipe/blob/master/LICENSE)
+# <img src="https://user-images.githubusercontent.com/873584/33324159-c3ea5050-d489-11e7-9f4b-75ee806a7538.png"> [Pipe](https://github.com/yinxulai/pipe) [![Build Status](https://img.shields.io/travis/b3log/pipe.svg?style=flat)](https://travis-ci.org/b3log/pipe) [![Go Report Card](https://goreportcard.com/badge/github.com/yinxulai/pipe)](https://goreportcard.com/report/github.com/yinxulai/pipe) [![Coverage Status](https://coveralls.io/repos/github/b3log/pipe/badge.svg?branch=master)](https://coveralls.io/github/b3log/pipe?branch=master) [![GitHub license](https://img.shields.io/github/license/b3log/pipe.svg)](https://github.com/yinxulai/pipe/blob/master/LICENSE)
 
 ## 简介
 
-[Pipe](https://github.com/b3log/pipe) 是一款小而美的开源博客平台，通过[黑客派](https://hacpai.com)账号登录即可使用。
+[Pipe](https://github.com/yinxulai/pipe) 是一款小而美的开源博客平台，通过[黑客派](https://hacpai.com)账号登录即可使用。
 
 ## 案例
 
@@ -58,13 +58,13 @@
 * [用户指南](https://hacpai.com/article/1513761942333)
 * [开发指南](https://hacpai.com/article/1533965022328)
 * [主题开发指南](https://hacpai.com/article/1512550354920)
-* [贡献指南](https://github.com/b3log/pipe/blob/master/CONTRIBUTING.md)
+* [贡献指南](https://github.com/yinxulai/pipe/blob/master/CONTRIBUTING.md)
 * [Postman 测试集](https://www.getpostman.com/collections/900ddef64ad0e60479a6)
 
 ## 社区
 
 * [讨论区](https://hacpai.com/tag/Pipe)
-* [报告问题](https://github.com/b3log/pipe/issues/new)
+* [报告问题](https://github.com/yinxulai/pipe/issues/new)
 
 ## 授权
 

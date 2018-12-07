@@ -83,7 +83,7 @@ const Common = {
 
     $(window).scroll()
 
-    // https://github.com/b3log/pipe/issues/115
+    // https://github.com/yinxulai/pipe/issues/115
     const ua = window.navigator.userAgent;
     if (/MicroMessenger/i.test(ua)) {
       $('body').css('display', 'block')

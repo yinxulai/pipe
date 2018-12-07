@@ -19,7 +19,7 @@ package console
 import (
 	"net/http"
 
-	"github.com/b3log/pipe/util"
+	"github.com/yinxulai/pipe/util"
 	"github.com/gin-gonic/gin"
 )
 

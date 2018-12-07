@@ -22,9 +22,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/b3log/pipe/model"
-	"github.com/b3log/pipe/theme"
-	"github.com/b3log/pipe/util"
+	"github.com/yinxulai/pipe/model"
+	"github.com/yinxulai/pipe/theme"
+	"github.com/yinxulai/pipe/util"
 	"github.com/jinzhu/gorm"
 )
 
@@ -226,9 +226,9 @@ func initNavigation(tx *gorm.DB, blogID uint64) error {
 func helloWorld(tx *gorm.DB, admin *model.User, blogID uint64) error {
 	content := `![Hello](` + util.RandImage() + `?imageView2/1/w/960/h/520/interlace/1/q/100)
 
-欢迎使用 [Pipe](https://github.com/b3log/pipe) 博客平台。这是一篇自动生成的演示文章，编辑或者删除它，然后开始你的独立博客之旅！
+欢迎使用 [Pipe](https://github.com/yinxulai/pipe) 博客平台。这是一篇自动生成的演示文章，编辑或者删除它，然后开始你的独立博客之旅！
 
-Pipe 博客平台是一个开源项目，如果你觉得它很赞，请到[项目首页](https://github.com/b3log/pipe)给颗星鼓励一下！`
+Pipe 博客平台是一个开源项目，如果你觉得它很赞，请到[项目首页](https://github.com/yinxulai/pipe)给颗星鼓励一下！`
 
 	now := time.Now()
 	article := &model.Article{

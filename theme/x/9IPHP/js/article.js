@@ -23,7 +23,7 @@ const Article = {
     if ($('#toc').length === 1) {
       InitToc('toc', 'articleContent')
 
-      // https://github.com/b3log/pipe/issues/114
+      // https://github.com/yinxulai/pipe/issues/114
       $('#toc a').each(function () {
         $(this).data('href', $(this).attr('href')).attr('href', 'javascript:void(0)')
       }).click(function () {

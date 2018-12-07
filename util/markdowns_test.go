@@ -100,22 +100,22 @@ Issue 最好先建立模板，让用户提问的时候有章可循。不过即�
 
 关于 issue 你未来可能会面临如下情况： 
 
-* [练习使用 GitHub 的](https://github.com/b3log/wide/issues/279)
-* [由于其他软件不会用导致的](https://github.com/b3log/wide/issues/295) 
-* [宣泄个人情感的](https://github.com/b3log/solo/issues/12112) 
+* [练习使用 GitHub 的](https://github.com/yinxulai/wide/issues/279)
+* [由于其他软件不会用导致的](https://github.com/yinxulai/wide/issues/295) 
+* [宣泄个人情感的](https://github.com/yinxulai/solo/issues/12112) 
 
 良好的 issue 交互情况： 
 
-* [提 issue 的人描述清晰](https://github.com/b3log/wide/issues/267) 
-* [提 issue 的人跟踪 bug 有始有终](https://github.com/b3log/wide/issues/270) 
-* [提 issue 的人提完顺带 fix](https://github.com/b3log/wide/issues/300) 
+* [提 issue 的人描述清晰](https://github.com/yinxulai/wide/issues/267) 
+* [提 issue 的人跟踪 bug 有始有终](https://github.com/yinxulai/wide/issues/270) 
+* [提 issue 的人提完顺带 fix](https://github.com/yinxulai/wide/issues/300) 
 
 总之通过 issue 来追踪管理变更是很好的做法，发布版本时还可以根据 issues 生成 [changelogs](https://hacpai.com/CHANGE_LOGS.html)。
 
 不过对于 issue 也有我觉得比较难处理的情况： 
 
-* [提的 issue 构想太大，作者 hold 不住](https://github.com/b3log/wide/issues/292)  
-* [和作者本意相矛盾](https://github.com/b3log/solo/issues/12124) 
+* [提的 issue 构想太大，作者 hold 不住](https://github.com/yinxulai/wide/issues/292)  
+* [和作者本意相矛盾](https://github.com/yinxulai/solo/issues/12124) 
 
 总之，做开源很重要一点就是和参与者、用户保持交流，等项目用的人多了以后责任也会变大，所以不能太随意，尽量做到变更可追溯。
 

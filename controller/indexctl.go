@@ -21,10 +21,10 @@ import (
 	"path/filepath"
 	"text/template"
 
-	"github.com/b3log/pipe/service"
-	"github.com/b3log/pipe/util"
+	"github.com/yinxulai/pipe/service"
+	"github.com/yinxulai/pipe/util"
 	"github.com/gin-gonic/gin"
-	model "github.com/b3log/pipe/model"
+	model "github.com/yinxulai/pipe/model"
 )
 
 func showIndexAction(c *gin.Context) {

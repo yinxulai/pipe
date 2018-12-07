@@ -23,8 +23,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/b3log/pipe/service"
-	"github.com/b3log/pipe/util"
+	"github.com/yinxulai/pipe/service"
+	"github.com/yinxulai/pipe/util"
 	"github.com/gin-gonic/gin"
 )
 

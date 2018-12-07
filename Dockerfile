@@ -11,7 +11,7 @@ RUN set -ex && \
     wget -q -O /etc/apk/keys/sgerrand.rsa.pub https://raw.githubusercontent.com/sgerrand/alpine-pkg-glibc/master/sgerrand.rsa.pub && \
     wget https://github.com/sgerrand/alpine-pkg-glibc/releases/download/${GLIBC_VERSION}/glibc-${GLIBC_VERSION}.apk && \
     apk add glibc-${GLIBC_VERSION}.apk && \
-    wget -O pipe${PIPE_VERSION}.zip https://github.com/b3log/pipe/releases/download/v${PIPE_VERSION}/pipe-${PIPE_VERSION}-linux-amd64.zip && \
+    wget -O pipe${PIPE_VERSION}.zip https://github.com/yinxulai/pipe/releases/download/v${PIPE_VERSION}/pipe-${PIPE_VERSION}-linux-amd64.zip && \
     unzip pipe${PIPE_VERSION}.zip && \
     chmod +x pipe && \
     rm -f pipe${PIPE_VERSION}.zip glibc-${GLIBC_VERSION}.apk

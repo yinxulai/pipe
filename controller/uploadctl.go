@@ -26,8 +26,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/b3log/pipe/service"
-	"github.com/b3log/pipe/util"
+	"github.com/yinxulai/pipe/service"
+	"github.com/yinxulai/pipe/util"
 	"github.com/gin-gonic/gin"
 	"github.com/parnurzeal/gorequest"
 	"github.com/qiniu/api.v7/storage"

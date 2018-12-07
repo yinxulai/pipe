@@ -20,7 +20,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/b3log/pipe/model"
+	"github.com/yinxulai/pipe/model"
 )
 
 const (

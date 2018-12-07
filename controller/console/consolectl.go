@@ -21,7 +21,7 @@ import (
 	"path/filepath"
 	"text/template"
 
-	"github.com/b3log/pipe/model"
+	"github.com/yinxulai/pipe/model"
 	"github.com/gin-gonic/gin"
 )
 

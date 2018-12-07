@@ -95,7 +95,7 @@
         <v-stepper-content step="3" class="fn-clear">
           <h1>{{ $t('welcome', $store.state.locale) }} Pipe</h1>
           <div class="ft-center login__content fn-clear">
-            <a href="https://github.com/b3log/pipe"
+            <a href="https://github.com/yinxulai/pipe"
                target="_blank"
                :aria-label="$t('openPipeTravel', $store.state.locale)"
                class="card login__image init__image--step3 pipe-tooltipped pipe-tooltipped--n">

@@ -30,7 +30,7 @@
           <p v-html="$t('about4', $store.state.locale)"></p>
           <p v-html="$t('about3', $store.state.locale)"></p>
           <p>
-            <a href="https://github.com/b3log/pipe-themes" target="_blank" class="about__link btn btn--info">
+            <a href="https://github.com/yinxulai/pipe-themes" target="_blank" class="about__link btn btn--info">
               <v-icon>github</v-icon>
               {{ $t('theme', $store.state.locale) }}
             </a>

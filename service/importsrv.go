@@ -24,8 +24,8 @@ import (
 	"time"
 
 	"github.com/araddon/dateparse"
-	"github.com/b3log/pipe/model"
-	"github.com/b3log/pipe/util"
+	"github.com/yinxulai/pipe/model"
+	"github.com/yinxulai/pipe/util"
 	"gopkg.in/yaml.v2"
 )
 

@@ -17,7 +17,7 @@
 package controller
 
 import (
-	"github.com/b3log/pipe/service"
+	"github.com/yinxulai/pipe/service"
 	"github.com/gin-gonic/gin"
 	"github.com/ikeikeikeike/go-sitemap-generator/stm"
 )

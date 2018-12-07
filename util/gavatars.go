@@ -24,7 +24,7 @@ import (
 )
 
 // RandAvatarData returns random avatar image byte array data from Gravatar (http://www.gravatar.com).
-// Sees https://github.com/b3log/pipe/issues/131 for more details.
+// Sees https://github.com/yinxulai/pipe/issues/131 for more details.
 func RandAvatarData() (ret []byte) {
 	modes := []string{"identicon", "monsterid", "wavatar", "retro", "robohash"}
 	d := modes[rand.Intn(len(modes))]

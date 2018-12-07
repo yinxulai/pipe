@@ -17,7 +17,7 @@
 package cache
 
 import (
-	"github.com/b3log/pipe/model"
+	"github.com/yinxulai/pipe/model"
 	"github.com/bluele/gcache"
 )
 

@@ -19,7 +19,7 @@ package service
 import (
 	"sync"
 
-	"github.com/b3log/pipe/model"
+	"github.com/yinxulai/pipe/model"
 )
 
 // Upgrade service.
@@ -42,7 +42,7 @@ func (srv *upgradeService) Perform() {
 	}
 	sysVerSetting := Setting.GetSetting(model.SettingCategorySystem, model.SettingNameSystemVer, 1)
 	if nil == sysVerSetting {
-		logger.Fatalf("system state is error, please contact developer: https://github.com/b3log/pipe/issues/new")
+		logger.Fatalf("system state is error, please contact developer: https://github.com/yinxulai/pipe/issues/new")
 	}
 
 	currentVer := sysVerSetting.Value

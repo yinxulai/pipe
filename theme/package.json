@@ -2,13 +2,13 @@
   "name": "Pipe",
   "version": "1.8.4",
   "description": "Pipe theme",
-  "homepage": "https://github.com/b3log/pipe",
+  "homepage": "https://github.com/yinxulai/pipe",
   "repository": {
     "type": "git",
-    "url": "git://github.com/b3log/pipe.git"
+    "url": "git://github.com/yinxulai/pipe.git"
   },
   "bugs": {
-    "url": "https://github.com/b3log/pipe/issues"
+    "url": "https://github.com/yinxulai/pipe/issues"
   },
   "license": "GPLv3",
   "private": true,

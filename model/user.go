@@ -17,7 +17,7 @@
 package model
 
 import (
-	"github.com/b3log/pipe/util"
+	"github.com/yinxulai/pipe/util"
 )
 
 // User model.
@@ -25,13 +25,13 @@ type User struct {
 	Model
 
 	Name              string `gorm:"size:32" json:"name"`
-	Password          string `gorm:"size:255" json:"password"` // https://github.com/b3log/pipe/issues/130
+	Password          string `gorm:"size:255" json:"password"` // https://github.com/yinxulai/pipe/issues/130
 	Nickname          string `gorm:"size:32" json:"nickname"`
 	AvatarURL         string `gorm:"size:255" json:"avatarURL"`
 	B3Key             string `gorm:"size:32" json:"b3Key"`
 	Locale            string `gorm:"size:32" json:"locale"`
 	TotalArticleCount int    `json:"totalArticleCount"`
-	GithubId          string `gorm:"255" json:"githubId"` // 支持 GitHub 登录 https://github.com/b3log/pipe/issues/150
+	GithubId          string `gorm:"255" json:"githubId"` // 支持 GitHub 登录 https://github.com/yinxulai/pipe/issues/150
 }
 
 // User roles.
